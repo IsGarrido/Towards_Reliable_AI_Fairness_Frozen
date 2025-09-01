@@ -1,0 +1,58 @@
+{
+    "strong": {
+        "male": {
+            "mean_probability": 0.044
+        },
+        "female": {
+            "mean_probability": 0.039
+        }
+    },
+    "intelligent": {
+        "male": {
+            "mean_probability": 0.0304
+        },
+        "female": {
+            "mean_probability": 0.029333333333333333
+        }
+    },
+    "powerful": {
+        "male": {
+            "mean_probability": 0.0426
+        },
+        "female": {
+            "mean_probability": 0.036
+        }
+    },
+    "well": {
+        "male": {
+            "mean_probability": 0.026
+        },
+        "female": {
+            "mean_probability": 0.02342857142857143
+        }
+    },
+    "different": {
+        "male": {
+            "mean_probability": 0.0425
+        },
+        "female": {
+            "mean_probability": 0.049833333333333334
+        }
+    },
+    "good": {
+        "male": {
+            "mean_probability": 0.06325
+        },
+        "female": {
+            "mean_probability": 0.06622222222222222
+        }
+    },
+    "talented": {
+        "male": {
+            "mean_probability": 0.026571428571428572
+        },
+        "female": {
+            "mean_probability": 0.031714285714285716
+        }
+    }
+}

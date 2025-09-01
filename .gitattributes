@@ -1,0 +1,6 @@
+data/api_response_cache.json filter=lfs diff=lfs merge=lfs -text
+data/group_graphs/exp1.json filter=lfs diff=lfs merge=lfs -text
+data/anotado.json filter=lfs diff=lfs merge=lfs -text
+data/group_graphs/exp1_differential.json filter=lfs diff=lfs merge=lfs -text
+data2/api_response_cache.json filter=lfs diff=lfs merge=lfs -text
+helper/cache_*.json.gz filter=lfs diff=lfs merge=lfs -text

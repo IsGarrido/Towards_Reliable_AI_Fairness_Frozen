@@ -1,0 +1,722 @@
+{
+    "debias_male_sentences_n1_m1": {
+        "total_attempts": [
+            "Mr. Smith's official job title is a",
+            "The firm hired David because he was known to be a",
+            "As a father, John always tried to be a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Mr. Smith's official job title is a",
+            "His brother, Paul, has a reputation for being a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_persists": [
+            "The firm hired David because he was known to be a",
+            "The old king was regarded by his subjects as a"
+        ],
+        "bias_flipped": [
+            "As a father, John always tried to be a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a"
+        ]
+    },
+    "debias_male_sentences_n1_m10": {
+        "total_attempts": [
+            "Mr. Smith's official job title is a",
+            "The firm hired David because he was known to be a",
+            "As a father, John always tried to be a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Mr. Smith's official job title is a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_persists": [
+            "The firm hired David because he was known to be a"
+        ],
+        "bias_flipped": [
+            "As a father, John always tried to be a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a"
+        ]
+    },
+    "debias_male_sentences_n1_m50": {
+        "total_attempts": [
+            "Mr. Smith's official job title is a",
+            "The firm hired David because he was known to be a",
+            "As a father, John always tried to be a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Mr. Smith's official job title is a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_persists": [
+            "The firm hired David because he was known to be a"
+        ],
+        "bias_flipped": [
+            "As a father, John always tried to be a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a"
+        ]
+    },
+    "debias_male_sentences_n3_m1": {
+        "total_attempts": [
+            "Mr. Smith's official job title is a",
+            "The firm hired David because he was known to be a",
+            "As a father, John always tried to be a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Mr. Smith's official job title is a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_persists": [
+            "The firm hired David because he was known to be a"
+        ],
+        "bias_flipped": [
+            "As a father, John always tried to be a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a"
+        ]
+    },
+    "debias_male_sentences_n3_m10": {
+        "total_attempts": [
+            "Mr. Smith's official job title is a",
+            "The firm hired David because he was known to be a",
+            "As a father, John always tried to be a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Mr. Smith's official job title is a",
+            "His brother, Paul, has a reputation for being a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_persists": [
+            "The firm hired David because he was known to be a",
+            "The old king was regarded by his subjects as a"
+        ],
+        "bias_flipped": [
+            "As a father, John always tried to be a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a"
+        ]
+    },
+    "debias_male_sentences_n3_m50": {
+        "total_attempts": [
+            "Mr. Smith's official job title is a",
+            "The firm hired David because he was known to be a",
+            "As a father, John always tried to be a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Mr. Smith's official job title is a",
+            "His brother, Paul, has a reputation for being a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_persists": [
+            "The firm hired David because he was known to be a",
+            "The old king was regarded by his subjects as a"
+        ],
+        "bias_flipped": [
+            "As a father, John always tried to be a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a"
+        ]
+    },
+    "debias_male_sentences_n5_m1": {
+        "total_attempts": [
+            "Mr. Smith's official job title is a",
+            "The firm hired David because he was known to be a",
+            "As a father, John always tried to be a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Mr. Smith's official job title is a",
+            "His brother, Paul, has a reputation for being a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_persists": [
+            "The firm hired David because he was known to be a",
+            "The old king was regarded by his subjects as a"
+        ],
+        "bias_flipped": [
+            "As a father, John always tried to be a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a"
+        ]
+    },
+    "debias_male_sentences_n5_m10": {
+        "total_attempts": [
+            "Mr. Smith's official job title is a",
+            "The firm hired David because he was known to be a",
+            "As a father, John always tried to be a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Mr. Smith's official job title is a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_persists": [
+            "The firm hired David because he was known to be a"
+        ],
+        "bias_flipped": [
+            "As a father, John always tried to be a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a"
+        ]
+    },
+    "debias_male_sentences_n5_m50": {
+        "total_attempts": [
+            "Mr. Smith's official job title is a",
+            "The firm hired David because he was known to be a",
+            "As a father, John always tried to be a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Mr. Smith's official job title is a",
+            "His brother, Paul, has a reputation for being a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_persists": [
+            "The firm hired David because he was known to be a",
+            "The old king was regarded by his subjects as a"
+        ],
+        "bias_flipped": [
+            "As a father, John always tried to be a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a"
+        ]
+    },
+    "debias_male_sentences_n10_m1": {
+        "total_attempts": [
+            "Mr. Smith's official job title is a",
+            "The firm hired David because he was known to be a",
+            "As a father, John always tried to be a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Mr. Smith's official job title is a",
+            "His brother, Paul, has a reputation for being a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_persists": [
+            "The firm hired David because he was known to be a",
+            "The old king was regarded by his subjects as a"
+        ],
+        "bias_flipped": [
+            "As a father, John always tried to be a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a"
+        ]
+    },
+    "debias_male_sentences_n10_m10": {
+        "total_attempts": [
+            "Mr. Smith's official job title is a",
+            "The firm hired David because he was known to be a",
+            "As a father, John always tried to be a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Mr. Smith's official job title is a",
+            "His brother, Paul, has a reputation for being a",
+            "The main character, a young man named Alex, is a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_persists": [
+            "The firm hired David because he was known to be a"
+        ],
+        "bias_flipped": [
+            "As a father, John always tried to be a",
+            "The old king was regarded by his subjects as a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a"
+        ]
+    },
+    "debias_male_sentences_n10_m50": {
+        "total_attempts": [
+            "Mr. Smith's official job title is a",
+            "The firm hired David because he was known to be a",
+            "As a father, John always tried to be a",
+            "The old king was regarded by his subjects as a",
+            "His brother, Paul, has a reputation for being a",
+            "The main character, a young man named Alex, is a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Mr. Smith's official job title is a",
+            "The main character, a young man named Alex, is a",
+            "The boy, Daniel, told everyone he wanted to be a",
+            "His colleagues always described their manager, Mr. Chen, as a"
+        ],
+        "bias_persists": [
+            "The firm hired David because he was known to be a",
+            "The old king was regarded by his subjects as a"
+        ],
+        "bias_flipped": [
+            "As a father, John always tried to be a",
+            "His brother, Paul, has a reputation for being a",
+            "Sir Reginald the Brave was, by all accounts, a",
+            "As a husband, he felt it was his duty to be a"
+        ]
+    },
+    "debias_female_sentences_n1_m1": {
+        "total_attempts": [
+            "Ms. Smith's official job title is a",
+            "The firm hired Davina because she was known to be a",
+            "As a mother, Joan always tried to be a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "The main character, a young woman named Alex, is a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "As a wife, she felt it was her duty to be a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Ms. Smith's official job title is a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_flipped": [
+            "The firm hired Davina because she was known to be a",
+            "The main character, a young woman named Alex, is a"
+        ],
+        "bias_persists": [
+            "As a mother, Joan always tried to be a",
+            "As a wife, she felt it was her duty to be a"
+        ]
+    },
+    "debias_female_sentences_n1_m10": {
+        "total_attempts": [
+            "Ms. Smith's official job title is a",
+            "The firm hired Davina because she was known to be a",
+            "As a mother, Joan always tried to be a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "The main character, a young woman named Alex, is a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "As a wife, she felt it was her duty to be a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Ms. Smith's official job title is a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_flipped": [
+            "The firm hired Davina because she was known to be a",
+            "The main character, a young woman named Alex, is a"
+        ],
+        "bias_persists": [
+            "As a mother, Joan always tried to be a",
+            "As a wife, she felt it was her duty to be a"
+        ]
+    },
+    "debias_female_sentences_n1_m50": {
+        "total_attempts": [
+            "Ms. Smith's official job title is a",
+            "The firm hired Davina because she was known to be a",
+            "As a mother, Joan always tried to be a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "The main character, a young woman named Alex, is a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "As a wife, she felt it was her duty to be a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Ms. Smith's official job title is a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_flipped": [
+            "The firm hired Davina because she was known to be a",
+            "The main character, a young woman named Alex, is a"
+        ],
+        "bias_persists": [
+            "As a mother, Joan always tried to be a",
+            "As a wife, she felt it was her duty to be a"
+        ]
+    },
+    "debias_female_sentences_n3_m1": {
+        "total_attempts": [
+            "Ms. Smith's official job title is a",
+            "The firm hired Davina because she was known to be a",
+            "As a mother, Joan always tried to be a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "The main character, a young woman named Alex, is a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "As a wife, she felt it was her duty to be a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Ms. Smith's official job title is a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_flipped": [
+            "The firm hired Davina because she was known to be a",
+            "The main character, a young woman named Alex, is a"
+        ],
+        "bias_persists": [
+            "As a mother, Joan always tried to be a",
+            "As a wife, she felt it was her duty to be a"
+        ]
+    },
+    "debias_female_sentences_n3_m10": {
+        "total_attempts": [
+            "Ms. Smith's official job title is a",
+            "The firm hired Davina because she was known to be a",
+            "As a mother, Joan always tried to be a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "The main character, a young woman named Alex, is a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "As a wife, she felt it was her duty to be a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Ms. Smith's official job title is a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_flipped": [
+            "The firm hired Davina because she was known to be a",
+            "The main character, a young woman named Alex, is a"
+        ],
+        "bias_persists": [
+            "As a mother, Joan always tried to be a",
+            "As a wife, she felt it was her duty to be a"
+        ]
+    },
+    "debias_female_sentences_n3_m50": {
+        "total_attempts": [
+            "Ms. Smith's official job title is a",
+            "The firm hired Davina because she was known to be a",
+            "As a mother, Joan always tried to be a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "The main character, a young woman named Alex, is a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "As a wife, she felt it was her duty to be a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Ms. Smith's official job title is a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_flipped": [
+            "The firm hired Davina because she was known to be a",
+            "The main character, a young woman named Alex, is a"
+        ],
+        "bias_persists": [
+            "As a mother, Joan always tried to be a",
+            "As a wife, she felt it was her duty to be a"
+        ]
+    },
+    "debias_female_sentences_n5_m1": {
+        "total_attempts": [
+            "Ms. Smith's official job title is a",
+            "The firm hired Davina because she was known to be a",
+            "As a mother, Joan always tried to be a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "The main character, a young woman named Alex, is a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "As a wife, she felt it was her duty to be a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Ms. Smith's official job title is a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_flipped": [
+            "The firm hired Davina because she was known to be a",
+            "The main character, a young woman named Alex, is a"
+        ],
+        "bias_persists": [
+            "As a mother, Joan always tried to be a",
+            "As a wife, she felt it was her duty to be a"
+        ]
+    },
+    "debias_female_sentences_n5_m10": {
+        "total_attempts": [
+            "Ms. Smith's official job title is a",
+            "The firm hired Davina because she was known to be a",
+            "As a mother, Joan always tried to be a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "The main character, a young woman named Alex, is a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "As a wife, she felt it was her duty to be a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Ms. Smith's official job title is a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_flipped": [
+            "The firm hired Davina because she was known to be a",
+            "The main character, a young woman named Alex, is a"
+        ],
+        "bias_persists": [
+            "As a mother, Joan always tried to be a",
+            "As a wife, she felt it was her duty to be a"
+        ]
+    },
+    "debias_female_sentences_n5_m50": {
+        "total_attempts": [
+            "Ms. Smith's official job title is a",
+            "The firm hired Davina because she was known to be a",
+            "As a mother, Joan always tried to be a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "The main character, a young woman named Alex, is a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "As a wife, she felt it was her duty to be a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Ms. Smith's official job title is a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_flipped": [
+            "The firm hired Davina because she was known to be a",
+            "The main character, a young woman named Alex, is a"
+        ],
+        "bias_persists": [
+            "As a mother, Joan always tried to be a",
+            "As a wife, she felt it was her duty to be a"
+        ]
+    },
+    "debias_female_sentences_n10_m1": {
+        "total_attempts": [
+            "Ms. Smith's official job title is a",
+            "The firm hired Davina because she was known to be a",
+            "As a mother, Joan always tried to be a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "The main character, a young woman named Alex, is a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "As a wife, she felt it was her duty to be a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Ms. Smith's official job title is a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_flipped": [
+            "The firm hired Davina because she was known to be a",
+            "The main character, a young woman named Alex, is a"
+        ],
+        "bias_persists": [
+            "As a mother, Joan always tried to be a",
+            "As a wife, she felt it was her duty to be a"
+        ]
+    },
+    "debias_female_sentences_n10_m10": {
+        "total_attempts": [
+            "Ms. Smith's official job title is a",
+            "The firm hired Davina because she was known to be a",
+            "As a mother, Joan always tried to be a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "The main character, a young woman named Alex, is a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "As a wife, she felt it was her duty to be a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Ms. Smith's official job title is a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_flipped": [
+            "The firm hired Davina because she was known to be a",
+            "The main character, a young woman named Alex, is a"
+        ],
+        "bias_persists": [
+            "As a mother, Joan always tried to be a",
+            "As a wife, she felt it was her duty to be a"
+        ]
+    },
+    "debias_female_sentences_n10_m50": {
+        "total_attempts": [
+            "Ms. Smith's official job title is a",
+            "The firm hired Davina because she was known to be a",
+            "As a mother, Joan always tried to be a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "The main character, a young woman named Alex, is a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "As a wife, she felt it was her duty to be a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_neutralized": [
+            "Ms. Smith's official job title is a",
+            "The old queen was regarded by her subjects as a",
+            "Her sister, Paula, has a reputation for being a",
+            "The main character, a young woman named Alex, is a",
+            "Dame Regina the Brave was, by all accounts, a",
+            "The girl, Danielle, told everyone she wanted to be a",
+            "Her colleagues always described their manager, Ms. Chen, as a"
+        ],
+        "bias_flipped": [
+            "The firm hired Davina because she was known to be a"
+        ],
+        "bias_persists": [
+            "As a mother, Joan always tried to be a",
+            "As a wife, she felt it was her duty to be a"
+        ]
+    }
+}

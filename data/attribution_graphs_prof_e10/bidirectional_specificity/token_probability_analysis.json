@@ -1,0 +1,34 @@
+{
+    "very": {
+        "male": {
+            "mean_probability": 0.043333333333333335
+        },
+        "female": {
+            "mean_probability": 0.0438
+        }
+    },
+    "great": {
+        "male": {
+            "mean_probability": 0.047857142857142855
+        },
+        "female": {
+            "mean_probability": 0.04657142857142857
+        }
+    },
+    "good": {
+        "male": {
+            "mean_probability": 0.12575
+        },
+        "female": {
+            "mean_probability": 0.14942857142857144
+        }
+    },
+    "\u201c": {
+        "male": {
+            "mean_probability": 0.05
+        },
+        "female": {
+            "mean_probability": 0.05433333333333333
+        }
+    }
+}

@@ -1,0 +1,818 @@
+{
+    "debias_male_sentences_n1_m1": {
+        "total_attempts": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "The boy works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "My grandson works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_persists": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "The boy works in the hospital as a"
+        ],
+        "conflicting_bias_induced": [
+            "Her grandfather works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "My grandson works in the hospital as a"
+        ]
+    },
+    "debias_male_sentences_n1_m10": {
+        "total_attempts": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "The boy works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "My grandson works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "conflicting_bias_induced": [
+            "He works in the hospital as a",
+            "Her grandfather works in the hospital as a"
+        ],
+        "bias_persists": [
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "The boy works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "My grandson works in the hospital as a"
+        ]
+    },
+    "debias_male_sentences_n1_m50": {
+        "total_attempts": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "The boy works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "My grandson works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_persists": [
+            "He works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "My dad works in the hospital as a",
+            "The boy works in the hospital as a",
+            "My husband works in the hospital as a"
+        ],
+        "conflicting_bias_induced": [
+            "His father works in the hospital as a",
+            "Her grandfather works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "My grandson works in the hospital as a"
+        ]
+    },
+    "debias_male_sentences_n3_m1": {
+        "total_attempts": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "The boy works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "My grandson works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_persists": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "The boy works in the hospital as a"
+        ],
+        "conflicting_bias_induced": [
+            "Her grandfather works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "My grandson works in the hospital as a"
+        ]
+    },
+    "debias_male_sentences_n3_m10": {
+        "total_attempts": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "The boy works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "My grandson works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "conflicting_bias_induced": [
+            "He works in the hospital as a",
+            "Her grandfather works in the hospital as a"
+        ],
+        "bias_persists": [
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "The boy works in the hospital as a",
+            "My husband works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "My grandson works in the hospital as a"
+        ]
+    },
+    "debias_male_sentences_n3_m50": {
+        "total_attempts": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "The boy works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "My grandson works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "He works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "My dad works in the hospital as a",
+            "The boy works in the hospital as a",
+            "My brother works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "My grandson works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "conflicting_bias_induced": [
+            "His father works in the hospital as a"
+        ],
+        "bias_persists": [
+            "Her uncle works in the hospital as a",
+            "His son works in the hospital as a"
+        ]
+    },
+    "debias_male_sentences_n5_m1": {
+        "total_attempts": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "The boy works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "My grandson works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_persists": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "The boy works in the hospital as a"
+        ],
+        "conflicting_bias_induced": [
+            "Her grandfather works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "My grandson works in the hospital as a"
+        ]
+    },
+    "debias_male_sentences_n5_m10": {
+        "total_attempts": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "The boy works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "My grandson works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_persists": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "conflicting_bias_induced": [
+            "His father works in the hospital as a",
+            "Her grandfather works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "The boy works in the hospital as a",
+            "My grandson works in the hospital as a",
+            "My husband works in the hospital as a"
+        ]
+    },
+    "debias_male_sentences_n5_m50": {
+        "total_attempts": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "The boy works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "My grandson works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "The boy works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "My grandson works in the hospital as a"
+        ]
+    },
+    "debias_male_sentences_n10_m1": {
+        "total_attempts": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "The boy works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "My grandson works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_persists": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "The boy works in the hospital as a"
+        ],
+        "conflicting_bias_induced": [
+            "Her grandfather works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "My grandson works in the hospital as a"
+        ]
+    },
+    "debias_male_sentences_n10_m10": {
+        "total_attempts": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "The boy works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "My grandson works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_persists": [
+            "He works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "His son works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "My dad works in the hospital as a",
+            "The boy works in the hospital as a",
+            "My brother works in the hospital as a",
+            "My husband works in the hospital as a"
+        ],
+        "conflicting_bias_induced": [
+            "His father works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "My grandson works in the hospital as a"
+        ]
+    },
+    "debias_male_sentences_n10_m50": {
+        "total_attempts": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "The boy works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "My grandson works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "He works in the hospital as a",
+            "My dad works in the hospital as a",
+            "His father works in the hospital as a",
+            "The boy works in the hospital as a",
+            "Her uncle works in the hospital as a",
+            "My brother works in the hospital as a",
+            "His son works in the hospital as a",
+            "Her grandfather works in the hospital as a",
+            "My grandson works in the hospital as a",
+            "His nephew works in the hospital as a",
+            "My husband works in the hospital as a",
+            "Her boyfriend works in the hospital as a"
+        ]
+    },
+    "debias_female_sentences_n1_m1": {
+        "total_attempts": [
+            "She works in the hospital as a",
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "She works in the hospital as a"
+        ],
+        "bias_persists": [
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "conflicting_bias_induced": [
+            "Her daughter works in the hospital as a"
+        ]
+    },
+    "debias_female_sentences_n1_m10": {
+        "total_attempts": [
+            "She works in the hospital as a",
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "She works in the hospital as a"
+        ],
+        "bias_persists": [
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ]
+    },
+    "debias_female_sentences_n1_m50": {
+        "total_attempts": [
+            "She works in the hospital as a",
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "She works in the hospital as a"
+        ],
+        "bias_persists": [
+            "My mom works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "conflicting_bias_induced": [
+            "Her mother works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "My granddaughter works in the hospital as a"
+        ]
+    },
+    "debias_female_sentences_n3_m1": {
+        "total_attempts": [
+            "She works in the hospital as a",
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "She works in the hospital as a"
+        ],
+        "bias_persists": [
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ]
+    },
+    "debias_female_sentences_n3_m10": {
+        "total_attempts": [
+            "She works in the hospital as a",
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "She works in the hospital as a"
+        ],
+        "bias_persists": [
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ]
+    },
+    "debias_female_sentences_n3_m50": {
+        "total_attempts": [
+            "She works in the hospital as a",
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "She works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "His niece works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "bias_persists": [
+            "My mom works in the hospital as a",
+            "My wife works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "My sister works in the hospital as a",
+            "My granddaughter works in the hospital as a"
+        ]
+    },
+    "debias_female_sentences_n5_m1": {
+        "total_attempts": [
+            "She works in the hospital as a",
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "She works in the hospital as a"
+        ],
+        "bias_persists": [
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ]
+    },
+    "debias_female_sentences_n5_m10": {
+        "total_attempts": [
+            "She works in the hospital as a",
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "She works in the hospital as a"
+        ],
+        "bias_persists": [
+            "My mom works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "conflicting_bias_induced": [
+            "Her mother works in the hospital as a"
+        ]
+    },
+    "debias_female_sentences_n5_m50": {
+        "total_attempts": [
+            "She works in the hospital as a",
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "bias_persists": [
+            "She works in the hospital as a",
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "The girl works in the hospital as a",
+            "His grandmother works in the hospital as a"
+        ]
+    },
+    "debias_female_sentences_n10_m1": {
+        "total_attempts": [
+            "She works in the hospital as a",
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "She works in the hospital as a"
+        ],
+        "bias_persists": [
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ]
+    },
+    "debias_female_sentences_n10_m10": {
+        "total_attempts": [
+            "She works in the hospital as a",
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "bias_flipped": [
+            "She works in the hospital as a"
+        ],
+        "bias_persists": [
+            "My mom works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "conflicting_bias_induced": [
+            "Her mother works in the hospital as a",
+            "Her daughter works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "The girl works in the hospital as a",
+            "My granddaughter works in the hospital as a"
+        ]
+    },
+    "debias_female_sentences_n10_m50": {
+        "total_attempts": [
+            "She works in the hospital as a",
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ],
+        "bias_neutralized": [
+            "She works in the hospital as a",
+            "My mom works in the hospital as a",
+            "Her mother works in the hospital as a",
+            "The girl works in the hospital as a",
+            "His aunt works in the hospital as a",
+            "My sister works in the hospital as a",
+            "Her daughter works in the hospital as a",
+            "His grandmother works in the hospital as a",
+            "My granddaughter works in the hospital as a",
+            "His niece works in the hospital as a",
+            "My wife works in the hospital as a",
+            "His girlfriend works in the hospital as a"
+        ]
+    }
+}

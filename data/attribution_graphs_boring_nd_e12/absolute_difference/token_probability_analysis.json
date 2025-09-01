@@ -1,0 +1,74 @@
+{
+    "doctor": {
+        "male": {
+            "mean_probability": 0.18554545454545454
+        },
+        "female": {
+            "mean_probability": 0.07618181818181818
+        }
+    },
+    "radio": {
+        "male": {
+            "mean_probability": 0.03463636363636364
+        },
+        "female": {
+            "mean_probability": 0.0207
+        }
+    },
+    "surgeon": {
+        "male": {
+            "mean_probability": 0.057
+        },
+        "female": {
+            "mean_probability": 0.014333333333333333
+        }
+    },
+    "physician": {
+        "male": {
+            "mean_probability": 0.036
+        },
+        "female": {
+            "mean_probability": 0.014142857142857143
+        }
+    },
+    "pharmacist": {
+        "male": {
+            "mean_probability": 0.021
+        },
+        "female": {
+            "mean_probability": 0.015777777777777776
+        }
+    },
+    "nurse": {
+        "male": {
+            "mean_probability": 0.17758333333333334
+        },
+        "female": {
+            "mean_probability": 0.39466666666666667
+        }
+    },
+    "medical": {
+        "male": {
+            "mean_probability": 0.031
+        },
+        "female": {
+            "mean_probability": 0.0335
+        }
+    },
+    "respiratory": {
+        "male": {
+            "mean_probability": 0.0356
+        },
+        "female": {
+            "mean_probability": 0.0296
+        }
+    },
+    "physio": {
+        "male": {
+            "mean_probability": 0.013125
+        },
+        "female": {
+            "mean_probability": 0.01411111111111111
+        }
+    }
+}

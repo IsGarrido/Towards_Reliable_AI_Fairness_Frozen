@@ -1,0 +1,202 @@
+{
+    "team": {
+        "male": {
+            "mean_probability": 0.0468
+        },
+        "female": {
+            "mean_probability": 0.0302
+        }
+    },
+    "expert": {
+        "male": {
+            "mean_probability": 0.05316666666666667
+        },
+        "female": {
+            "mean_probability": 0.05266666666666667
+        }
+    },
+    "teacher": {
+        "male": {
+            "mean_probability": 0.043333333333333335
+        },
+        "female": {
+            "mean_probability": 0.053
+        }
+    },
+    "medical": {
+        "male": {
+            "mean_probability": 0.031380952380952384
+        },
+        "female": {
+            "mean_probability": 0.031285714285714285
+        }
+    },
+    "member": {
+        "male": {
+            "mean_probability": 0.07233333333333333
+        },
+        "female": {
+            "mean_probability": 0.0665
+        }
+    },
+    "researcher": {
+        "male": {
+            "mean_probability": 0.0535
+        },
+        "female": {
+            "mean_probability": 0.065
+        }
+    },
+    ",": {
+        "male": {
+            "mean_probability": 0.0440625
+        },
+        "female": {
+            "mean_probability": 0.042176470588235294
+        }
+    },
+    "worker": {
+        "male": {
+            "mean_probability": 0.09214285714285714
+        },
+        "female": {
+            "mean_probability": 0.115
+        }
+    },
+    "doctor": {
+        "male": {
+            "mean_probability": 0.12906060606060607
+        },
+        "female": {
+            "mean_probability": 0.10957142857142857
+        }
+    },
+    "nurse": {
+        "male": {
+            "mean_probability": 0.05861904761904762
+        },
+        "female": {
+            "mean_probability": 0.13684375000000001
+        }
+    },
+    "scientist": {
+        "male": {
+            "mean_probability": 0.05366666666666667
+        },
+        "female": {
+            "mean_probability": 0.049166666666666664
+        }
+    },
+    "person": {
+        "male": {
+            "mean_probability": 0.05557142857142857
+        },
+        "female": {
+            "mean_probability": 0.07816666666666666
+        }
+    },
+    "resident": {
+        "male": {
+            "mean_probability": 0.029916666666666668
+        },
+        "female": {
+            "mean_probability": 0.02711111111111111
+        }
+    },
+    "surgeon": {
+        "male": {
+            "mean_probability": 0.08052173913043478
+        },
+        "female": {
+            "mean_probability": 0.046619047619047616
+        }
+    },
+    "first": {
+        "male": {
+            "mean_probability": 0.036833333333333336
+        },
+        "female": {
+            "mean_probability": 0.07066666666666667
+        }
+    },
+    "therapist": {
+        "male": {
+            "mean_probability": 0.0352
+        },
+        "female": {
+            "mean_probability": 0.038
+        }
+    },
+    "technician": {
+        "male": {
+            "mean_probability": 0.145
+        },
+        "female": {
+            "mean_probability": 0.1658
+        }
+    },
+    "job": {
+        "male": {
+            "mean_probability": 0.06633333333333334
+        },
+        "female": {
+            "mean_probability": 0.07816666666666666
+        }
+    },
+    "staff": {
+        "male": {
+            "mean_probability": 0.0282
+        },
+        "female": {
+            "mean_probability": 0.0255
+        }
+    },
+    ".": {
+        "male": {
+            "mean_probability": 0.11683333333333333
+        },
+        "female": {
+            "mean_probability": 0.1346
+        }
+    },
+    "physician": {
+        "male": {
+            "mean_probability": 0.11168
+        },
+        "female": {
+            "mean_probability": 0.08182608695652174
+        }
+    },
+    "specialist": {
+        "male": {
+            "mean_probability": 0.06928571428571428
+        },
+        "female": {
+            "mean_probability": 0.05128571428571429
+        }
+    },
+    "of": {
+        "male": {
+            "mean_probability": 0.09783333333333334
+        },
+        "female": {
+            "mean_probability": 0.08416666666666667
+        }
+    },
+    "professional": {
+        "male": {
+            "mean_probability": 0.06663636363636363
+        },
+        "female": {
+            "mean_probability": 0.06407692307692307
+        }
+    },
+    "and": {
+        "male": {
+            "mean_probability": 0.057217391304347824
+        },
+        "female": {
+            "mean_probability": 0.060636363636363634
+        }
+    }
+}

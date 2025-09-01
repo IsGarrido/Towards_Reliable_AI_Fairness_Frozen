@@ -1,0 +1,922 @@
+{
+    "comparison": {
+        "subject1": {
+            "concept": "global_male_biased"
+        },
+        "subject2": {
+            "concept": "global_female_biased"
+        },
+        "analysis_mode": "absolute_difference",
+        "metadata": {
+            "male_biased_tokens_count": 14,
+            "female_biased_tokens_count": 11,
+            "male_biased_tokens_list": [
+                "team",
+                "expert",
+                "medical",
+                "member",
+                ",",
+                "doctor",
+                "scientist",
+                "resident",
+                "surgeon",
+                "staff",
+                "physician",
+                "specialist",
+                "of",
+                "professional"
+            ],
+            "female_biased_tokens_list": [
+                "teacher",
+                "researcher",
+                "worker",
+                "nurse",
+                "person",
+                "first",
+                "therapist",
+                "technician",
+                "job",
+                ".",
+                "and"
+            ]
+        }
+    },
+    "differentiating_neurons": [
+        {
+            "neuron_id": "24_12624_15",
+            "difference_score": -0.7676356476506796,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/12624"
+            ]
+        },
+        {
+            "neuron_id": "E_2_0",
+            "difference_score": -0.18968665898678683,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased"
+        },
+        {
+            "neuron_id": "20_15217_15",
+            "difference_score": 0.8453941180293139,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/15217"
+            ]
+        },
+        {
+            "neuron_id": "19_14738_15",
+            "difference_score": 0.8609043955265616,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/19-gemmascope-transcoder-16k/14738"
+            ]
+        },
+        {
+            "neuron_id": "20_1688_15",
+            "difference_score": 0.49031226238345393,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/1688"
+            ]
+        },
+        {
+            "neuron_id": "24_12624_16",
+            "difference_score": -0.6873115313251638,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/12624"
+            ]
+        },
+        {
+            "neuron_id": "25_14875_15",
+            "difference_score": -0.7009921731241855,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/25-gemmascope-transcoder-16k/14875"
+            ]
+        },
+        {
+            "neuron_id": "20_15217_16",
+            "difference_score": 0.6711454808937781,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/15217"
+            ]
+        },
+        {
+            "neuron_id": "E_7679_4",
+            "difference_score": 0.5828082336556344,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased"
+        },
+        {
+            "neuron_id": "24_13277_15",
+            "difference_score": -0.010866051823825718,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/13277"
+            ]
+        },
+        {
+            "neuron_id": "20_15217_14",
+            "difference_score": 0.6706370227716185,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/15217"
+            ]
+        },
+        {
+            "neuron_id": "24_12624_18",
+            "difference_score": -0.792241499005329,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/12624"
+            ]
+        },
+        {
+            "neuron_id": "25_14875_18",
+            "difference_score": -0.7072638834483529,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/25-gemmascope-transcoder-16k/14875"
+            ]
+        },
+        {
+            "neuron_id": "25_14875_16",
+            "difference_score": -0.734027991278304,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/25-gemmascope-transcoder-16k/14875"
+            ]
+        },
+        {
+            "neuron_id": "24_12624_14",
+            "difference_score": -0.1964425745109717,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/12624"
+            ]
+        },
+        {
+            "neuron_id": "25_6062_16",
+            "difference_score": -0.7857770330652043,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/25-gemmascope-transcoder-16k/6062"
+            ]
+        },
+        {
+            "neuron_id": "20_1688_16",
+            "difference_score": 0.25972616747908656,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/1688"
+            ]
+        },
+        {
+            "neuron_id": "24_12624_17",
+            "difference_score": -0.3849261451040865,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/12624"
+            ]
+        },
+        {
+            "neuron_id": "22_11444_15",
+            "difference_score": 0.6199750132430409,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/22-gemmascope-transcoder-16k/11444"
+            ]
+        },
+        {
+            "neuron_id": "24_12624_13",
+            "difference_score": -0.38511820773434163,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/12624"
+            ]
+        },
+        {
+            "neuron_id": "23_10395_15",
+            "difference_score": 0.5163086797280978,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/23-gemmascope-transcoder-16k/10395"
+            ]
+        },
+        {
+            "neuron_id": "19_14738_16",
+            "difference_score": 0.5530019711556011,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/19-gemmascope-transcoder-16k/14738"
+            ]
+        },
+        {
+            "neuron_id": "21_9543_15",
+            "difference_score": -0.03798393580702042,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/21-gemmascope-transcoder-16k/9543"
+            ]
+        },
+        {
+            "neuron_id": "23_10395_13",
+            "difference_score": 1.6626547478139402,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/23-gemmascope-transcoder-16k/10395"
+            ]
+        },
+        {
+            "neuron_id": "20_1688_18",
+            "difference_score": 0.5960049788933247,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/1688"
+            ]
+        },
+        {
+            "neuron_id": "24_12624_12",
+            "difference_score": -0.8036384088386381,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/12624"
+            ]
+        },
+        {
+            "neuron_id": "18_14457_15",
+            "difference_score": 0.12346698793511812,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/18-gemmascope-transcoder-16k/14457"
+            ]
+        },
+        {
+            "neuron_id": "24_13277_13",
+            "difference_score": -0.09833353486928065,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/13277"
+            ]
+        },
+        {
+            "neuron_id": "24_12624_11",
+            "difference_score": -1.937592609386359,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/12624"
+            ]
+        },
+        {
+            "neuron_id": "25_13377_15",
+            "difference_score": 0.04768018687539022,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/25-gemmascope-transcoder-16k/13377"
+            ]
+        },
+        {
+            "neuron_id": "E_7679_2",
+            "difference_score": 0.1529538278778395,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased"
+        },
+        {
+            "neuron_id": "25_14875_12",
+            "difference_score": -1.1679932794491337,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/25-gemmascope-transcoder-16k/14875"
+            ]
+        },
+        {
+            "neuron_id": "25_11867_13",
+            "difference_score": -0.1439175783355432,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/25-gemmascope-transcoder-16k/11867"
+            ]
+        },
+        {
+            "neuron_id": "23_10395_16",
+            "difference_score": 0.4482535290231228,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/23-gemmascope-transcoder-16k/10395"
+            ]
+        },
+        {
+            "neuron_id": "20_1688_17",
+            "difference_score": 0.1344160425667622,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/1688"
+            ]
+        },
+        {
+            "neuron_id": "20_1688_13",
+            "difference_score": 0.29034412672677845,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/1688"
+            ]
+        },
+        {
+            "neuron_id": "24_13277_14",
+            "difference_score": -0.09172773480415342,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/13277"
+            ]
+        },
+        {
+            "neuron_id": "24_3790_15",
+            "difference_score": -0.25256403251431686,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/3790"
+            ]
+        },
+        {
+            "neuron_id": "E_476_13",
+            "difference_score": 0.39851759175459556,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased"
+        },
+        {
+            "neuron_id": "24_13277_16",
+            "difference_score": -0.02600398088050304,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/13277"
+            ]
+        },
+        {
+            "neuron_id": "20_6781_15",
+            "difference_score": 0.1819120702439973,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/6781"
+            ]
+        },
+        {
+            "neuron_id": "24_397_15",
+            "difference_score": 1.2612650737166404,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/397"
+            ]
+        },
+        {
+            "neuron_id": "23_1186_15",
+            "difference_score": 0.4632750120557224,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/23-gemmascope-transcoder-16k/1186"
+            ]
+        },
+        {
+            "neuron_id": "6_4490_4",
+            "difference_score": 0.18019366702205486,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/6-gemmascope-transcoder-16k/4490"
+            ]
+        },
+        {
+            "neuron_id": "25_11867_15",
+            "difference_score": -0.21448627197080183,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/25-gemmascope-transcoder-16k/11867"
+            ]
+        },
+        {
+            "neuron_id": "20_1688_14",
+            "difference_score": 0.01904358137644041,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/1688"
+            ]
+        },
+        {
+            "neuron_id": "16_10384_15",
+            "difference_score": 0.3535818671950927,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/16-gemmascope-transcoder-16k/10384"
+            ]
+        },
+        {
+            "neuron_id": "22_11444_16",
+            "difference_score": 0.3640988216912638,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/22-gemmascope-transcoder-16k/11444"
+            ]
+        },
+        {
+            "neuron_id": "24_13277_18",
+            "difference_score": -0.3134408851987438,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/13277"
+            ]
+        },
+        {
+            "neuron_id": "19_14738_12",
+            "difference_score": 0.4593060014148553,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/19-gemmascope-transcoder-16k/14738"
+            ]
+        },
+        {
+            "neuron_id": "23_9889_16",
+            "difference_score": -0.4590063064226082,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/23-gemmascope-transcoder-16k/9889"
+            ]
+        },
+        {
+            "neuron_id": "15_15159_4",
+            "difference_score": 0.30994839405712604,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/15-gemmascope-transcoder-16k/15159"
+            ]
+        },
+        {
+            "neuron_id": "24_397_18",
+            "difference_score": 1.1330603511324004,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/397"
+            ]
+        },
+        {
+            "neuron_id": "E_476_16",
+            "difference_score": 0.624366385738055,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased"
+        },
+        {
+            "neuron_id": "21_9543_13",
+            "difference_score": 0.17736701667308807,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/21-gemmascope-transcoder-16k/9543"
+            ]
+        },
+        {
+            "neuron_id": "22_4316_15",
+            "difference_score": -0.03208231118979393,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/22-gemmascope-transcoder-16k/4316"
+            ]
+        },
+        {
+            "neuron_id": "20_1688_12",
+            "difference_score": 0.16772814169082617,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/1688"
+            ]
+        },
+        {
+            "neuron_id": "18_14457_16",
+            "difference_score": -0.033161177925466745,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/18-gemmascope-transcoder-16k/14457"
+            ]
+        },
+        {
+            "neuron_id": "14_3985_4",
+            "difference_score": 0.23741921006391448,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/14-gemmascope-transcoder-16k/3985"
+            ]
+        },
+        {
+            "neuron_id": "18_9727_16",
+            "difference_score": 0.5860185010276515,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/18-gemmascope-transcoder-16k/9727"
+            ]
+        },
+        {
+            "neuron_id": "24_13277_17",
+            "difference_score": 0.08749061822891235,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/13277"
+            ]
+        },
+        {
+            "neuron_id": "23_10572_15",
+            "difference_score": 0.3062730504755388,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/23-gemmascope-transcoder-16k/10572"
+            ]
+        },
+        {
+            "neuron_id": "20_4927_15",
+            "difference_score": -1.0841072420947826,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/4927"
+            ]
+        },
+        {
+            "neuron_id": "20_6781_16",
+            "difference_score": 0.1599675750005104,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/6781"
+            ]
+        },
+        {
+            "neuron_id": "25_13377_16",
+            "difference_score": -0.10205786896662572,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/25-gemmascope-transcoder-16k/13377"
+            ]
+        },
+        {
+            "neuron_id": "25_1591_15",
+            "difference_score": -0.6427505971529546,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/25-gemmascope-transcoder-16k/1591"
+            ]
+        },
+        {
+            "neuron_id": "18_14457_14",
+            "difference_score": 0.15192443164240604,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/18-gemmascope-transcoder-16k/14457"
+            ]
+        },
+        {
+            "neuron_id": "E_476_10",
+            "difference_score": 0.3074412559177361,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased"
+        },
+        {
+            "neuron_id": "23_1186_16",
+            "difference_score": 0.24390884139430452,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/23-gemmascope-transcoder-16k/1186"
+            ]
+        },
+        {
+            "neuron_id": "20_6781_18",
+            "difference_score": 0.23793265362354837,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/6781"
+            ]
+        },
+        {
+            "neuron_id": "21_13528_16",
+            "difference_score": 0.4183095859095844,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/21-gemmascope-transcoder-16k/13528"
+            ]
+        },
+        {
+            "neuron_id": "15_15159_6",
+            "difference_score": 0.22987477071583268,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/15-gemmascope-transcoder-16k/15159"
+            ]
+        },
+        {
+            "neuron_id": "19_9531_15",
+            "difference_score": 0.1428682432613439,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/19-gemmascope-transcoder-16k/9531"
+            ]
+        },
+        {
+            "neuron_id": "21_13528_17",
+            "difference_score": 0.45554906586185095,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/21-gemmascope-transcoder-16k/13528"
+            ]
+        },
+        {
+            "neuron_id": "22_11406_15",
+            "difference_score": 0.5282445383568605,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/22-gemmascope-transcoder-16k/11406"
+            ]
+        },
+        {
+            "neuron_id": "18_14457_18",
+            "difference_score": 0.13106835840745656,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/18-gemmascope-transcoder-16k/14457"
+            ]
+        },
+        {
+            "neuron_id": "24_10629_15",
+            "difference_score": -0.37585601458946866,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/10629"
+            ]
+        },
+        {
+            "neuron_id": "16_10384_16",
+            "difference_score": 0.34714107497871577,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/16-gemmascope-transcoder-16k/10384"
+            ]
+        },
+        {
+            "neuron_id": "24_3790_18",
+            "difference_score": -0.146937442453284,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/3790"
+            ]
+        },
+        {
+            "neuron_id": "21_12945_15",
+            "difference_score": 0.13987847888674682,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/21-gemmascope-transcoder-16k/12945"
+            ]
+        },
+        {
+            "neuron_id": "24_3790_16",
+            "difference_score": -0.15154974886431144,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/3790"
+            ]
+        },
+        {
+            "neuron_id": "20_1169_16",
+            "difference_score": -0.15595314713815844,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/1169"
+            ]
+        },
+        {
+            "neuron_id": "E_235269_9",
+            "difference_score": -0.3020417022563162,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased"
+        },
+        {
+            "neuron_id": "25_10152_15",
+            "difference_score": 0.08765011181433996,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/25-gemmascope-transcoder-16k/10152"
+            ]
+        },
+        {
+            "neuron_id": "4_4665_4",
+            "difference_score": 0.12165487754660156,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/4-gemmascope-transcoder-16k/4665"
+            ]
+        },
+        {
+            "neuron_id": "15_15159_9",
+            "difference_score": 0.2165786374213272,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/15-gemmascope-transcoder-16k/15159"
+            ]
+        },
+        {
+            "neuron_id": "25_4194_13",
+            "difference_score": -0.5433187443763017,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/25-gemmascope-transcoder-16k/4194"
+            ]
+        },
+        {
+            "neuron_id": "19_12965_16",
+            "difference_score": 0.41650469398924284,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/19-gemmascope-transcoder-16k/12965"
+            ]
+        },
+        {
+            "neuron_id": "21_9543_17",
+            "difference_score": -0.16228471882641315,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/21-gemmascope-transcoder-16k/9543"
+            ]
+        },
+        {
+            "neuron_id": "24_3790_17",
+            "difference_score": -0.24425143908177105,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/3790"
+            ]
+        },
+        {
+            "neuron_id": "E_476_18",
+            "difference_score": 0.5756494837147847,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased"
+        },
+        {
+            "neuron_id": "4_4665_8",
+            "difference_score": 0.08587822540559703,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/4-gemmascope-transcoder-16k/4665"
+            ]
+        },
+        {
+            "neuron_id": "18_9727_15",
+            "difference_score": 0.3968487338236484,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/18-gemmascope-transcoder-16k/9727"
+            ]
+        },
+        {
+            "neuron_id": "23_10395_14",
+            "difference_score": 0.33608930495878064,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/23-gemmascope-transcoder-16k/10395"
+            ]
+        },
+        {
+            "neuron_id": "20_13820_15",
+            "difference_score": 0.08114601367677762,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/13820"
+            ]
+        },
+        {
+            "neuron_id": "7_210_4",
+            "difference_score": 0.11547421789483023,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/7-gemmascope-transcoder-16k/210"
+            ]
+        },
+        {
+            "neuron_id": "23_10395_17",
+            "difference_score": 0.2992525611072779,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/23-gemmascope-transcoder-16k/10395"
+            ]
+        },
+        {
+            "neuron_id": "24_2445_16",
+            "difference_score": -0.17314738585125836,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/24-gemmascope-transcoder-16k/2445"
+            ]
+        },
+        {
+            "neuron_id": "25_4194_16",
+            "difference_score": -0.2931136035360396,
+            "from_concept": "female_biased",
+            "to_concept": "male_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/25-gemmascope-transcoder-16k/4194"
+            ]
+        },
+        {
+            "neuron_id": "20_6828_15",
+            "difference_score": 0.10297701430305106,
+            "from_concept": "male_biased",
+            "to_concept": "female_biased",
+            "links": [
+                "https://www.neuronpedia.org/gemma-2-2b/20-gemmascope-transcoder-16k/6828"
+            ]
+        }
+    ]
+}

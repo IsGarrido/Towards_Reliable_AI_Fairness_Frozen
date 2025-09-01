@@ -1,0 +1,139 @@
+{
+    "debias_male_sentences_n1_m1": {
+        "total_attempts": 12,
+        "bias_persists": 9,
+        "bias_flipped": 1,
+        "conflicting_bias_induced": 1,
+        "bias_neutralized": 1
+    },
+    "debias_male_sentences_n1_m10": {
+        "total_attempts": 12,
+        "bias_persists": 9,
+        "bias_flipped": 1,
+        "conflicting_bias_induced": 1,
+        "bias_neutralized": 1
+    },
+    "debias_male_sentences_n1_m50": {
+        "total_attempts": 12,
+        "conflicting_bias_induced": 2,
+        "bias_persists": 7,
+        "bias_flipped": 1,
+        "bias_neutralized": 2
+    },
+    "debias_male_sentences_n3_m1": {
+        "total_attempts": 12,
+        "bias_persists": 9,
+        "bias_flipped": 1,
+        "conflicting_bias_induced": 1,
+        "bias_neutralized": 1
+    },
+    "debias_male_sentences_n3_m10": {
+        "total_attempts": 12,
+        "conflicting_bias_induced": 2,
+        "bias_persists": 7,
+        "bias_flipped": 2,
+        "bias_neutralized": 1
+    },
+    "debias_male_sentences_n3_m50": {
+        "total_attempts": 12,
+        "conflicting_bias_induced": 4,
+        "bias_persists": 5,
+        "bias_neutralized": 1,
+        "bias_flipped": 2
+    },
+    "debias_male_sentences_n5_m1": {
+        "total_attempts": 12,
+        "bias_persists": 9,
+        "bias_flipped": 1,
+        "conflicting_bias_induced": 1,
+        "bias_neutralized": 1
+    },
+    "debias_male_sentences_n5_m10": {
+        "total_attempts": 12,
+        "conflicting_bias_induced": 3,
+        "bias_persists": 6,
+        "bias_flipped": 1,
+        "bias_neutralized": 2
+    },
+    "debias_male_sentences_n5_m50": {
+        "total_attempts": 12,
+        "bias_persists": 8,
+        "conflicting_bias_induced": 1,
+        "bias_neutralized": 3
+    },
+    "debias_male_sentences_n10_m1": {
+        "total_attempts": 12,
+        "bias_persists": 9,
+        "bias_flipped": 1,
+        "conflicting_bias_induced": 1,
+        "bias_neutralized": 1
+    },
+    "debias_male_sentences_n10_m10": {
+        "total_attempts": 12,
+        "bias_persists": 10,
+        "bias_neutralized": 2
+    },
+    "debias_male_sentences_n10_m50": {
+        "total_attempts": 12,
+        "bias_neutralized": 12
+    },
+    "debias_female_sentences_n1_m1": {
+        "total_attempts": 12,
+        "bias_flipped": 1,
+        "bias_persists": 11
+    },
+    "debias_female_sentences_n1_m10": {
+        "total_attempts": 12,
+        "bias_flipped": 1,
+        "bias_persists": 10,
+        "conflicting_bias_induced": 1
+    },
+    "debias_female_sentences_n1_m50": {
+        "total_attempts": 12,
+        "bias_persists": 12
+    },
+    "debias_female_sentences_n3_m1": {
+        "total_attempts": 12,
+        "bias_flipped": 1,
+        "bias_persists": 11
+    },
+    "debias_female_sentences_n3_m10": {
+        "total_attempts": 12,
+        "bias_persists": 12
+    },
+    "debias_female_sentences_n3_m50": {
+        "total_attempts": 12,
+        "bias_persists": 7,
+        "bias_flipped": 2,
+        "bias_neutralized": 3
+    },
+    "debias_female_sentences_n5_m1": {
+        "total_attempts": 12,
+        "bias_flipped": 1,
+        "bias_persists": 11
+    },
+    "debias_female_sentences_n5_m10": {
+        "total_attempts": 12,
+        "bias_persists": 12
+    },
+    "debias_female_sentences_n5_m50": {
+        "total_attempts": 12,
+        "bias_neutralized": 10,
+        "bias_persists": 2
+    },
+    "debias_female_sentences_n10_m1": {
+        "total_attempts": 12,
+        "bias_flipped": 1,
+        "bias_persists": 11
+    },
+    "debias_female_sentences_n10_m10": {
+        "total_attempts": 12,
+        "bias_persists": 10,
+        "conflicting_bias_induced": 1,
+        "bias_neutralized": 1
+    },
+    "debias_female_sentences_n10_m50": {
+        "total_attempts": 12,
+        "bias_neutralized": 12
+    }
+}
